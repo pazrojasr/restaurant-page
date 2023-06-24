@@ -1,0 +1,26 @@
+{
+  "name": "restaurante-page",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pazrojasr/restaurant-page.git"
+  },
+  "keywords": [
+    "restaurant"
+  ],
+  "author": "@pazrojasr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pazrojasr/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/pazrojasr/restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.88.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
